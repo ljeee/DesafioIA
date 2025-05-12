@@ -1,0 +1,2 @@
+# DesafioIA
+Desafio ia optimizacion
