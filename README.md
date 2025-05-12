@@ -9,8 +9,11 @@
   Problemas o limitaciones del método tradicional:
   
   -Ineficiencia temporal: La exploración física y la prueba de calles consumen mucho tiempo.
+  
   -Información desactualizada o subjetiva: Las recomendaciones de la comunidad pueden estar obsoletas o no coincidir con las preferencias del skater.
+  
   -Riesgos de seguridad: Los skaters pueden enfrentarse a tráfico, vigilancia o superficies peligrosas.
+  
   -Falta de personalización: No hay un sistema que adapte las recomendaciones al nivel, estilo o necesidades específicas del skater.
 
 ## 3. Propuesta de Solución con IA
@@ -21,25 +24,40 @@
   Descripción de la solución IA:
 
 # Tecnologías empleadas:
+
   -Visión computacional para analizar imágenes de mapas y Google Street View, detectando características como asfalto liso, bordillos o barandillas
+  
   -Machine learning (filtrado colaborativo) para recomendar calles según el perfil del skater y reseñas de la comunidad
+  
   -Procesamiento de datos en tiempo real para evaluar tráfico, clima y riesgos (ej. obras, presencia policial) usando APIs
+  
   -Realidad aumentada (RA) para visualizar calles virtualmente antes de visitarlas
+  
   -Plataforma de crowdsourcing para recopilar y validar reseñas de la comunidad
   
 # Integración en el flujo:
   El skater ingresa su ubicación y preferencias (ej. trucos de flat/ground en una aplicación móvil
-  La IA analiza datos geoespaciales, imágenes y reseñas para identificar calles candidatas
-  El sistema evalúa condiciones en tiempo real (tráfico, clima) y filtra las mejores opciones según el perfil del skater
-  La aplicación muestra recomendaciones con detalles (fotos, puntuaciones) y permite visualizar la calle en RA
-  Los skaters pueden subir reseñas y fotos, que la IA valida y usa para mejorar futuras recomendaciones
-  Elementos de gamificación (insignias, desafíos) motivan a los usuarios a contribuir
   
+  La IA analiza datos geoespaciales, imágenes y reseñas para identificar calles candidatas
+  
+  El sistema evalúa condiciones en tiempo real (tráfico, clima) y filtra las mejores opciones según el perfil del skater
+  
+  La aplicación muestra recomendaciones con detalles (fotos, puntuaciones) y permite visualizar la calle en RA
+  
+  Los skaters pueden subir reseñas y fotos, que la IA valida y usa para mejorar futuras recomendaciones
+  
+  Elementos de gamificación (insignias, desafíos) motivan a los usuarios a contribuir
+
 # Beneficios esperados:
+
   Mayor velocidad: Recomendaciones instantáneas sin necesidad de exploración física.
+  
   Personalización: Calles adaptadas al estilo, nivel y preferencias del skater.
+  
   Seguridad mejorada: Evaluación de riesgos en tiempo real reduce peligros.
+  
   Aprendizaje continuo: La IA mejora con reseñas y datos nuevos.
+  
   Reducción de esfuerzo: Menos tiempo y recursos invertidos en la búsqueda.
 
 ## 4. Comparativa entre Procesos
