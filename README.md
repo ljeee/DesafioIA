@@ -20,14 +20,14 @@
   
   Descripción de la solución IA:
 
-  Tecnologías empleadas:
+# Tecnologías empleadas:
   -Visión computacional para analizar imágenes de mapas y Google Street View, detectando características como asfalto liso, bordillos o barandillas
   -Machine learning (filtrado colaborativo) para recomendar calles según el perfil del skater y reseñas de la comunidad
   -Procesamiento de datos en tiempo real para evaluar tráfico, clima y riesgos (ej. obras, presencia policial) usando APIs
   -Realidad aumentada (RA) para visualizar calles virtualmente antes de visitarlas
   -Plataforma de crowdsourcing para recopilar y validar reseñas de la comunidad
   
-  Integración en el flujo:
+# Integración en el flujo:
   El skater ingresa su ubicación y preferencias (ej. trucos de flat/ground en una aplicación móvil
   La IA analiza datos geoespaciales, imágenes y reseñas para identificar calles candidatas
   El sistema evalúa condiciones en tiempo real (tráfico, clima) y filtra las mejores opciones según el perfil del skater
@@ -35,7 +35,7 @@
   Los skaters pueden subir reseñas y fotos, que la IA valida y usa para mejorar futuras recomendaciones
   Elementos de gamificación (insignias, desafíos) motivan a los usuarios a contribuir
   
-  Beneficios esperados:
+# Beneficios esperados:
   Mayor velocidad: Recomendaciones instantáneas sin necesidad de exploración física.
   Personalización: Calles adaptadas al estilo, nivel y preferencias del skater.
   Seguridad mejorada: Evaluación de riesgos en tiempo real reduce peligros.
