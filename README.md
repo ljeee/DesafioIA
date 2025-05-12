@@ -1,5 +1,7 @@
 ### Desafío IA: Transformando un Proceso Tradicional
 
+### Mejorarle la vida a los skaters xd
+
 ## 1. Introducción
   Este documento presenta cómo la inteligencia artificial puede optimizar el proceso tradicional de identificar las mejores calles para practicar skateboarding. El caso de uso seleccionado es la búsqueda de calles ideales para skaters, una práctica habitual en la comunidad del skateboarding urbano, donde los skaters buscan lugares con superficies adecuadas, elementos específicos (como bordillos o barandillas) y entornos seguros.
   
