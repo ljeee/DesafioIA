@@ -1,9 +1,9 @@
-###Desafío IA: Transformando un Proceso Tradicional
+### Desafío IA: Transformando un Proceso Tradicional
 
-##1. Introducción
+## 1. Introducción
   Este documento presenta cómo la inteligencia artificial puede optimizar el proceso tradicional de identificar las mejores calles para practicar skateboarding. El caso de uso seleccionado es la búsqueda de calles ideales para skaters, una práctica habitual en la comunidad del skateboarding urbano, donde los skaters buscan lugares con superficies adecuadas, elementos específicos (como bordillos o barandillas) y entornos seguros.
   
-##2. Descripción del Proceso Tradicional
+## 2. Descripción del Proceso Tradicional
   Los skaters salen a buscar calles para patinar explorando físicamente, pidiendo consejos a la comunidad o mirando mapas y videos online. Esto significa caminar un montón por la ciudad, probar calles a mano y compartir lo que encuentran en redes o foros. Por ejemplo, un skater puede pasarse horas buscando una calle con asfalto suave y sin mucho tráfico, o preguntar en un grupo de Instagram por spots cerca.
   
   Problemas o limitaciones del método tradicional:
@@ -13,9 +13,9 @@
   -Riesgos de seguridad: Los skaters pueden enfrentarse a tráfico, vigilancia o superficies peligrosas.
   -Falta de personalización: No hay un sistema que adapte las recomendaciones al nivel, estilo o necesidades específicas del skater.
 
-##3. Propuesta de Solución con IA
+## 3. Propuesta de Solución con IA
 
-#Objetivo de la solución
+# Objetivo de la solución
   Automatizar y personalizar la búsqueda de calles óptimas para skaters, proporcionando recomendaciones precisas, seguras y adaptadas al perfil del usuario mediante un sistema basado en IA.
   
   Descripción de la solución IA:
@@ -42,7 +42,7 @@
   Aprendizaje continuo: La IA mejora con reseñas y datos nuevos.
   Reducción de esfuerzo: Menos tiempo y recursos invertidos en la búsqueda.
 
-##4. Comparativa entre Procesos
+## 4. Comparativa entre Procesos
 
 | Aspecto                    | Proceso Tradicional                 | Solución con IA                           |
 |----------------------------|-------------------------------------|-------------------------------------------|
